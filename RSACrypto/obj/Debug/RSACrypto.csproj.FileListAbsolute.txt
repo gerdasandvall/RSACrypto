@@ -1,0 +1,8 @@
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\bin\Debug\RSACrypto.dll
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\bin\Debug\RSACrypto.pdb
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.csproj.AssemblyReference.cache
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.Backdrop.resources
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.csproj.GenerateResource.cache
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.csproj.CoreCompileInputs.cache
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.dll
+C:\Users\09GS0816\source\repos\RSACrypto\RSACrypto\obj\Debug\RSACrypto.pdb
